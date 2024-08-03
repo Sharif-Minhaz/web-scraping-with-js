@@ -31,10 +31,10 @@ const extractResults = async (page, number) => {
 	}, number);
 };
 
-export async function webSearchService(goto, keywords) {
+export async function webSearchService(url, keywords) {
 	const browser = await puppeteer.launch({ headless: false, slowMo: 100 });
 	const page = await browser.newPage();
-	await page.goto(goto);
+	await page.goto(url);
 
 	// 'input' is a CSS selector.
 	await page.type(".gLFyf", keywords); // change the second parameter (use any keyword you want to search in the google)
