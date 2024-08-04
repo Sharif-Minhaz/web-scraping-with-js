@@ -2,74 +2,9 @@ import { writeResult } from "../utils/writeResult.js";
 import { JSDOM } from "jsdom";
 
 // weapon, armor, helmet, ranged_weapon, rarity, faction
-
-const test = {
-	common: {
-		rarity: "common",
-		description: "",
-		sets: [
-			{
-				faction: {
-					name: "",
-					image_url: "",
-				},
-				weapon: {
-					name: "",
-					image_url: "",
-				},
-				armor: {
-					name: "",
-					image_url: "",
-				},
-				helmet: {
-					name: "",
-					image_url: "",
-				},
-				ranged_weapon: {
-					name: "",
-					image_url: "",
-				},
-			},
-		],
-	},
-	legendary: {
-		rarity: "legendary",
-		description: "",
-		sets: [
-			{
-				setInfo: {
-					name: "",
-					description: "",
-					ability: "",
-				},
-				faction: {
-					name: "",
-					image_url: "",
-				},
-				weapon: {
-					name: "",
-					image_url: "",
-				},
-				armor: {
-					name: "",
-					image_url: "",
-				},
-				helmet: {
-					name: "",
-					image_url: "",
-				},
-				ranged_weapon: {
-					name: "",
-					image_url: "",
-				},
-			},
-		],
-	},
-};
-
 const data = {
 	about: "This data refers to Equipment Sets in Shadow Fight 3",
-	common: {},
+	common: {}, // a heading
 	rare: {},
 	epic: {},
 	unique: {},
@@ -77,123 +12,127 @@ const data = {
 };
 
 export async function fandomWikiScrapService(url) {
-	const res = await fetch(url);
-	const result = await res.text();
+	try {
+		// get the raw text form the url
+		const res = await fetch(url);
+		const result = await res.text(); // transform to the raw text
 
-	const dom = new JSDOM(result);
+		const dom = new JSDOM(result); // convert to backend workable dom tree
 
-	const allHeadings = dom.window.document.querySelectorAll(".mw-headline");
-	const allDescriptions = dom.window.document.querySelectorAll("h2 + p");
+		// get all the headings
+		const allHeadings = dom.window.document.querySelectorAll(".mw-headline");
 
-	const allImages = dom.window.document.querySelectorAll(".center > .floatnone > .image");
+		// get all the descriptions
+		const allDescriptions = dom.window.document.querySelectorAll("h2 + p");
 
-	const allTables = dom.window.document.querySelectorAll(".article-table.article-table-selected");
+		// get all the faction image information
+		const allImages = dom.window.document.querySelectorAll(
+			".center > .floatnone > .image:has(img[alt$=Small])"
+		);
 
-	allHeadings.forEach((info, index) => {
-		const heading = info?.textContent || "";
-		const description = allDescriptions[index]?.textContent || "";
+		// get all the set's table
+		const allTables = dom.window.document.querySelectorAll(
+			".article-table.article-table-selected"
+		);
 
-		const sets = [];
+		// simulate based on the number of headings [5 times this case]
+		allHeadings.forEach((info, index) => {
+			const heading = info?.textContent || ""; // extract heading text
+			const description = allDescriptions[index]?.textContent.trim() || ""; // extract description text
 
-		for (let i = index * 3; i < (index + 1) * 3 && i < allTables.length; i++) {
-			const table = allTables[i];
-			const allRows = table.querySelectorAll("tbody tr"); // This will work as we are still using NodeList
-			// Do something with allRows
+			const sets = []; // empty set's array
 
-			allRows.forEach((row, serial) => {
-				if (serial === 0) return;
+			// simulate 3 tables at a time [dynasty, hearalds, legion]
+			for (let i = index * 3; i < (index + 1) * 3 && i < allTables.length; i++) {
+				const table = allTables[i]; // grab a single table
 
-				const tds = row.querySelectorAll("td[style]");
+				const allRows = table.querySelectorAll("tbody tr:has(td)"); // NOTE: use has selector for parent selecting based on children
 
-				const info = {
-					setInfo: {
-						name: "",
-						description: "",
-						ability: "",
-					},
-					faction: {
-						name: allImages[i].querySelector("img")?.alt.split(" ")[0],
-						image_url: allImages[i].href.split(".png")[0].concat(".png"),
-					},
-					weapon: {
-						name: tds[0]?.textContent?.trim() || "",
-						image_url: getTdImage(0),
-					},
-					armor: {
-						name: tds[1]?.textContent?.trim() || "",
-						image_url: getTdImage(1),
-					},
-					helmet: {
-						name: tds[2]?.textContent?.trim() || "",
-						image_url: getTdImage(2),
-					},
-					ranged_weapon: {
-						name: tds[3]?.textContent?.trim() || "",
-						image_url: getTdImage(3),
-					},
-				}; // set information
+				allRows.forEach((row) => {
+					const tds = row.querySelectorAll("td[style]"); // getting all table data [td] from the row
 
-				sets.push(info); // push the single set
-			});
-		}
+					const info = getFullSetInfo(allImages, tds, i); // a full set information
 
-		data[heading.toLowerCase()] = { rarity: heading, description, sets };
-	});
+					sets.push(info); // push the single set
+				});
+			}
 
-	// writeResult(data);
+			// insert the respective data based on the heading [common/rare/unique/epic etc]
+			data[heading.toLowerCase()] = { rarity: heading, description, sets };
+		});
 
-	console.log(data.unique.sets);
-}
-
-// custom function for selecting image
-function getTdImage(tds, index) {
-	return tds[index]?.querySelector("figure > a")?.href.split(".png")[0].concat(".png") || "";
-}
-
-function getNormalSetInfo(allImages, tds, factionNo) {
-	// factionNo === i
-	if (tds.length > 4) {
-		return {
-			setInfo: {
-				name: "",
-				description: "",
-				ability: "",
-			},
-			faction: {
-				name: allImages[factionNo].querySelector("img")?.alt.split(" ")[0],
-				image_url: allImages[factionNo].href.split(".png")[0].concat(".png"),
-			},
-			...["weapon", "armor", "helmet", "ranged_weapon"].map((name, index) => {
-				return {
-					[name]: {
-						name: tds[index]?.textContent?.trim() || "",
-						image_url: getTdImage(tds, index),
-					},
-				};
-			}),
-		};
+		writeResult(data, "fandom_wiki"); // write result to a json file, public/json/result.json
+	} catch (error) {
+		console.error(error.message);
 	}
+}
 
+// for extracting image from <a href=""> note: img src is dynamic in fandom wiki
+function getTdImage(tds, index) {
+	return tds[index]?.querySelector("figure > a")?.href?.split(".png")[0].concat(".png") || "";
+}
+
+// for extracting image for set icon
+function getSetIcon(td) {
+	return td?.querySelector("div.floatnone > a")?.href?.split(".png")[0].concat(".png") || "";
+}
+
+// get the appropriate fiction for the set
+function getFiction(allImages, factionNo) {
 	return {
-		faction: {
-			name: allImages[i].querySelector("img")?.alt.split(" ")[0],
-			image_url: allImages[i].href.split(".png")[0].concat(".png"),
-		},
-		weapon: {
-			name: tds[0]?.textContent?.trim() || "",
-			image_url: getTdImage(tds, 0),
-		},
-		armor: {
-			name: tds[1]?.textContent?.trim() || "",
-			image_url: getTdImage(tds, 1),
-		},
-		helmet: {
-			name: tds[2]?.textContent?.trim() || "",
-			image_url: getTdImage(tds, 2),
-		},
-		ranged_weapon: {
-			name: tds[3]?.textContent?.trim() || "",
-			image_url: getTdImage(tds, 3),
-		},
+		name: allImages[factionNo].querySelector("img")?.alt.split(" ")[0],
+		image_url: allImages[factionNo]?.href?.split(".png")[0].concat(".png"),
 	};
+}
+
+// fetch the td value
+function getFieldValue(tds, index, increment = 0) {
+	return {
+		name: tds[index + increment]?.textContent?.trim() || "",
+		image_url: getTdImage(tds, index + increment),
+	};
+}
+
+// get special set's power/ability information
+function getSetPowerInfo(tds) {
+	return {
+		name: tds[0]?.querySelector("b")?.textContent || "",
+		icon: getSetIcon(tds[0]),
+		ability: tds[1]?.textContent.trim() || "",
+	};
+}
+
+// get a single full information
+function getFullSetInfo(allImages, tds, factionNo) {
+	// table heading count
+	switch (tds.length) {
+		case 4: // common / rare / epic
+			return {
+				faction: getFiction(allImages, factionNo),
+				...["weapon", "armor", "helmet", "ranged_weapon"].reduce((acc, name, index) => {
+					acc[name] = getFieldValue(tds, index);
+					return acc;
+				}, {}),
+			};
+		case 6: // legendary
+			return {
+				setInfo: getSetPowerInfo(tds),
+				faction: getFiction(allImages, factionNo),
+				...["weapon", "armor", "helmet", "ranged_weapon"].reduce((acc, name, index) => {
+					acc[name] = getFieldValue(tds, index, 2);
+					return acc;
+				}, {}),
+			};
+		case 7: // unique
+			return {
+				setInfo: getSetPowerInfo(tds),
+				...["weapon", "armor", "helmet", "ranged_weapon"].reduce((acc, name, index) => {
+					acc[name] = getFieldValue(tds, index, 2);
+					return acc;
+				}, {}),
+				event: tds[6]?.textContent.trim(),
+			};
+		default:
+			return {};
+	}
 }

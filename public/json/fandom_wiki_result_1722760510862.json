@@ -1,0 +1,2793 @@
+{
+	"about": "This data refers to Equipment Sets in Shadow Fight 3",
+	"common": {
+		"rarity": "Common",
+		"description": "These are the easiest type of sets to be collected. There are a total of 21 Common Sets. Collecting all the items of a Common Set will only reward the players with a small amount of coins, 50 stability points in June's Plane, 30 stability points for each item and 30 stability points for a set in Itu's Plane.",
+		"sets": [
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Crude Sword",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4f/Wpn_onehanded_sword_01_01.png"
+				},
+				"armor": {
+					"name": "Mountaineer's Doublet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/0d/Arm_str_02.png"
+				},
+				"helmet": {
+					"name": "Mountaineer's Cap",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3b/Helm_str_03.png"
+				},
+				"ranged_weapon": {
+					"name": "Training Hatchets",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/af/Rng_axes_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Plain Swords",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/13/Wpn_dual_swords_01_01.png"
+				},
+				"armor": {
+					"name": "Training Uniform",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/25/Arm_str_12.png"
+				},
+				"helmet": {
+					"name": "Nomad's Cap",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3f/Helm_str_12.png"
+				},
+				"ranged_weapon": {
+					"name": "Training Blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/5c/Rng_knives_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Iron Lance",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b5/Wpn_spear_01_01.png"
+				},
+				"armor": {
+					"name": "Rogue's Doublet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3e/Arm_str_14.png"
+				},
+				"helmet": {
+					"name": "Campaigner's Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/72/Helm_str_15.png"
+				},
+				"ranged_weapon": {
+					"name": "Wooden Crossbow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/aa/Rng_arbalest_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Riffle Hammers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9c/Wpn_hammers_02_01.png"
+				},
+				"armor": {
+					"name": "Purist's Plates",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a7/Arm_str_11.png"
+				},
+				"helmet": {
+					"name": "Purists' Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6f/Helm_str_13.png"
+				},
+				"ranged_weapon": {
+					"name": "Copper Pilum",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/04/Rng_pilum_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Battle Sword",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6c/Wpn_twohanded_sword_01_01.png"
+				},
+				"armor": {
+					"name": "Belted Cuirass",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/09/Arm_str_23.png"
+				},
+				"helmet": {
+					"name": "Morion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a7/Helm_str_23.png"
+				},
+				"ranged_weapon": {
+					"name": "Crude Pistol",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6d/Rng_pistol_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Solid Hatchets",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f2/Wpn_axes_02_01.png"
+				},
+				"armor": {
+					"name": "Elder's Robe",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1b/Arm_str_29.png"
+				},
+				"helmet": {
+					"name": "Strengthened Helmet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f9/Helm_str_29.png"
+				},
+				"ranged_weapon": {
+					"name": "Iron Bite",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/16/Rng_trap_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Sentinel Pack",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/30/Wpn_shield_knobstick_01_01.png"
+				},
+				"armor": {
+					"name": "Opportunist's Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b0/Arm_str_33.png"
+				},
+				"helmet": {
+					"name": "Ribbed Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e6/Helm_str_33.png"
+				},
+				"ranged_weapon": {
+					"name": "Model 8",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/69/Rng_str_blaster_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Nunchaku",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6f/Wpn_nunchaku_01_01.png"
+				},
+				"armor": {
+					"name": "Peasant's Breastplate",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/5d/Arm_agl_13.png"
+				},
+				"helmet": {
+					"name": "Conical Hat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a5/Helm_agl_13.png"
+				},
+				"ranged_weapon": {
+					"name": "Banded Boomerangs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8f/Rng_boomerang_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Double Scimitars",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2e/Wpn_sabers_01_01.png"
+				},
+				"armor": {
+					"name": "Embroidered Suit",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/03/Arm_agl_09.png"
+				},
+				"helmet": {
+					"name": "Seahorse Veil",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a7/Helm_agl_05.png"
+				},
+				"ranged_weapon": {
+					"name": "Novice Daggers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/17/Rng_agl_knives_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Metal Shuang Gou",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a4/Wpn_shuangou_01_01.png"
+				},
+				"armor": {
+					"name": "Plain Waistcoat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ad/Arm_agl_08.png"
+				},
+				"helmet": {
+					"name": "Rag",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/0f/Helm_agl_08.png"
+				},
+				"ranged_weapon": {
+					"name": "Banded Chakrams",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a8/Rng_chakram_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Common Staff",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4e/Wpn_staff_01_03.png"
+				},
+				"armor": {
+					"name": "Monk's Wrap",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Arm_agl_16.png"
+				},
+				"helmet": {
+					"name": "Epiphany Kasa",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/85/Helm_agl_16.png"
+				},
+				"ranged_weapon": {
+					"name": "Light Bow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/75/Rng_bow_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Crafted Sting",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8e/Wpn_chain_knife_01_01.png"
+				},
+				"armor": {
+					"name": "Ritual Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/68/Arm_agl_23.png"
+				},
+				"helmet": {
+					"name": "Tribal Helmet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/ff/Helm_agl_23.png"
+				},
+				"ranged_weapon": {
+					"name": "Exploding Pots",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f1/Rng_bomb_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Peasant's Guandao",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/60/Wpn_guandao_01_01.png"
+				},
+				"armor": {
+					"name": "Gladiator Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/12/Arm_agl_26.png"
+				},
+				"helmet": {
+					"name": "Gladiator Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6a/Helm_agl_26.png"
+				},
+				"ranged_weapon": {
+					"name": "Iron Sparks",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/64/Rng_spike_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Stream",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7f/Wpn_glaive_knives_01_01.png"
+				},
+				"armor": {
+					"name": "Dust Storm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2c/Arm_agl_30.png"
+				},
+				"helmet": {
+					"name": "Protection Helmet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b0/Helm_agl_30.png"
+				},
+				"ranged_weapon": {
+					"name": "Elegant Bow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/02/Rng_bow_02_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Steel Sai",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b7/Wpn_sai_01_01.png"
+				},
+				"armor": {
+					"name": "Cinder Coat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/87/Arm_prc_03.png"
+				},
+				"helmet": {
+					"name": "Solid Band",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/22/Helm_prc_03.png"
+				},
+				"ranged_weapon": {
+					"name": "Onyx Shurikens",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/88/Rng_shuriken_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Acute Naginata",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/42/Wpn_naginata_01_01.png"
+				},
+				"armor": {
+					"name": "Initiate Kimono",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b0/Arm_prc_08.png"
+				},
+				"helmet": {
+					"name": "Leather Casque",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fe/Helm_prc_09.png"
+				},
+				"ranged_weapon": {
+					"name": "Iron Kunai",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/26/Rng_kunai_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Keen Katana",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/03/Wpn_katana_01_01.png"
+				},
+				"armor": {
+					"name": "Compression Suit",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c1/Arm_prc_09.png"
+				},
+				"helmet": {
+					"name": "Composite Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/46/Helm_prc_08.png"
+				},
+				"ranged_weapon": {
+					"name": "Wooden Harpoon",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/16/Rng_harpoon_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Wooden Kama",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/60/Wpn_dual_kama_01_01.png"
+				},
+				"armor": {
+					"name": "Envoy's Plates",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1c/Arm_prc_02.png"
+				},
+				"helmet": {
+					"name": "Envoy's Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/36/Helm_prc_01.png"
+				},
+				"ranged_weapon": {
+					"name": "Piercing Needles",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1d/Rng_needle_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Stinger Claws",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/10/Wpn_claws_01_01.png"
+				},
+				"armor": {
+					"name": "Fine Leather Cloak",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/dc/Arm_prc_18.png"
+				},
+				"helmet": {
+					"name": "Military Sakkat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/74/Helm_prc_18.png"
+				},
+				"ranged_weapon": {
+					"name": "Crossblade",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6a/Rng_folding_shuriken_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Hermit Katana",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/05/Wpn_katana_scabbard_01_01.png"
+				},
+				"armor": {
+					"name": "Turquoise Coat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/86/Arm_prc_28.png"
+				},
+				"helmet": {
+					"name": "Cap of Concentration",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/70/Helm_prc_28.png"
+				},
+				"ranged_weapon": {
+					"name": "Prototypes",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/81/Rng_electromine_01_01.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Folding Katars",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/cb/Wpn_whip_katar_01_01.png"
+				},
+				"armor": {
+					"name": "Quality Carcasse",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2e/Arm_prc_29.png"
+				},
+				"helmet": {
+					"name": "Neurostabiliser",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/85/Helm_prc_29.png"
+				},
+				"ranged_weapon": {
+					"name": "Holepunch",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ee/Rng_prc_blaster_01_01.png"
+				}
+			}
+		]
+	},
+	"rare": {
+		"rarity": "Rare",
+		"description": "There are a total of 21 Rare Sets. Collecting all the items of a Rare Set will reward the players with 75 shadow energy, 100 stability points in June's Plane, 60 stability points for each item and 60 stability points for a set in Itu's Plane.",
+		"sets": [
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Labryses",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/95/Wpn_axes_01_02.png"
+				},
+				"armor": {
+					"name": "Reinforced Coat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3c/Arm_str_03.png"
+				},
+				"helmet": {
+					"name": "Visored Casque",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/68/Helm_str_01.png"
+				},
+				"ranged_weapon": {
+					"name": "Prepper's Hatchets",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a1/Rng_axes_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Silver Squall",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/da/Wpn_twohanded_sword_01_02.png"
+				},
+				"armor": {
+					"name": "Bedrock Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2b/Arm_str_05.png"
+				},
+				"helmet": {
+					"name": "Bedrock Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/55/Helm_str_08.png"
+				},
+				"ranged_weapon": {
+					"name": "Iron Crosses",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/99/Rng_knives_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Metal Sting",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/de/Wpn_spear_01_02.png"
+				},
+				"armor": {
+					"name": "Scout's Jacket",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/88/Arm_str_04.png"
+				},
+				"helmet": {
+					"name": "Scout's Hat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e7/Helm_str_11.png"
+				},
+				"ranged_weapon": {
+					"name": "Steel Crossbow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c1/Rng_arbalest_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Signets of War",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d1/Wpn_hammers_01_01.png"
+				},
+				"armor": {
+					"name": "Hunter's Woolfell",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/45/Arm_str_21.png"
+				},
+				"helmet": {
+					"name": "Steel Guard",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b7/Helm_str_21.png"
+				},
+				"ranged_weapon": {
+					"name": "Steel Pilum",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6b/Rng_pilum_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Spiked Maul",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/09/Wpn_twohanded_hammer_02_01.png"
+				},
+				"armor": {
+					"name": "Marauder's Breastplate",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Arm_str_22.png"
+				},
+				"helmet": {
+					"name": "Marauder's Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8e/Helm_str_22.png"
+				},
+				"ranged_weapon": {
+					"name": "Trustworthy Pistol",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/37/Rng_pistol_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Double Skivers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/50/Wpn_dual_swords_01_02.png"
+				},
+				"armor": {
+					"name": "Guard's Uniform",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/69/Arm_str_26.png"
+				},
+				"helmet": {
+					"name": "Guard's Helmet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/01/Helm_str_26.png"
+				},
+				"ranged_weapon": {
+					"name": "Crushing Jaws",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ed/Rng_trap_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Restrainer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/41/Wpn_shield_knobstick_01_02.png"
+				},
+				"armor": {
+					"name": "Steel Order",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7a/Arm_str_30.png"
+				},
+				"helmet": {
+					"name": "Encouragement Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/17/Helm_str_30.png"
+				},
+				"ranged_weapon": {
+					"name": "Demigod",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b5/Rng_str_blaster_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Sentry's Guandao",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9f/Wpn_guandao_01_02.png"
+				},
+				"armor": {
+					"name": "Recruit's Doublet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/67/Arm_agl_10.png"
+				},
+				"helmet": {
+					"name": "Horse-tail Helmet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/34/Helm_agl_10.png"
+				},
+				"ranged_weapon": {
+					"name": "Trifolium Daggers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/df/Rng_agl_knives_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Lightweight Sabers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ed/Wpn_sabers_01_02.png"
+				},
+				"armor": {
+					"name": "Padded Vest",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/91/Arm_agl_05.png"
+				},
+				"helmet": {
+					"name": "Recruit's Hood",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/64/Helm_agl_06.png"
+				},
+				"ranged_weapon": {
+					"name": "Rigid Boomerangs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4a/Rng_boomerang_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Wooden Staff",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d4/Wpn_staff_01_02.png"
+				},
+				"armor": {
+					"name": "Gilded Vest",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/21/Arm_agl_01.png"
+				},
+				"helmet": {
+					"name": "Gilded Headgear",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b0/Helm_agl_01.png"
+				},
+				"ranged_weapon": {
+					"name": "Crimson Chakrams",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/ce/Rng_chakram_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Deerhorn Knives",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/cc/Wpn_deerhorn_01_02.png"
+				},
+				"armor": {
+					"name": "Rebel's Overcoat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/80/Arm_agl_19.png"
+				},
+				"helmet": {
+					"name": "Crested Visor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1f/Helm_agl_19.png"
+				},
+				"ranged_weapon": {
+					"name": "Composite Bow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b4/Rng_bow_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Four-sided Blade",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/94/Wpn_chain_knife_01_02.png"
+				},
+				"armor": {
+					"name": "Sea Devil's Doublet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/de/Arm_agl_17.png"
+				},
+				"helmet": {
+					"name": "Sea Devil's Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/dc/Helm_agl_17.png"
+				},
+				"ranged_weapon": {
+					"name": "Tighten-up Fire Orbs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/08/Rng_bomb_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Rebel Nunchaku",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/70/Wpn_nunchaku_01_02.png"
+				},
+				"armor": {
+					"name": "Fur-lined Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/42/Arm_agl_24.png"
+				},
+				"helmet": {
+					"name": "Silky Fez",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6a/Helm_agl_24.png"
+				},
+				"ranged_weapon": {
+					"name": "Ants",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/43/Rng_spike_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Scattered Blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/15/Wpn_glaive_knives_01_02.png"
+				},
+				"armor": {
+					"name": "Prince of Wastelands",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/14/Arm_agl_29.png"
+				},
+				"helmet": {
+					"name": "Empire Tribute",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/bf/Helm_agl_29.png"
+				},
+				"ranged_weapon": {
+					"name": "Wild Inflorescence",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4d/Rng_bow_02_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Slick Naginata",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/bf/Wpn_naginata_01_02.png"
+				},
+				"armor": {
+					"name": "Ebony Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/32/Arm_prc_06.png"
+				},
+				"helmet": {
+					"name": "Kendogu Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/60/Helm_prc_06.png"
+				},
+				"ranged_weapon": {
+					"name": "Tracker's Tri-blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a7/Rng_shuriken_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Razor Edge",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Wpn_glaive_01_01.png"
+				},
+				"armor": {
+					"name": "Arrowproof Vest",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d7/Arm_prc_04.png"
+				},
+				"helmet": {
+					"name": "Vigilante Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/84/Helm_prc_04.png"
+				},
+				"ranged_weapon": {
+					"name": "Heralds' Standart",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/37/Rng_kunai_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Steel Claws",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/bd/Wpn_claws_01_02.png"
+				},
+				"armor": {
+					"name": "Enhanced Wrappings",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/da/Arm_prc_12.png"
+				},
+				"helmet": {
+					"name": "Conical Headgear",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/11/Helm_prc_12.png"
+				},
+				"ranged_weapon": {
+					"name": "Ragged Fin",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2b/Rng_harpoon_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Lightweight Kama",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b7/Wpn_dual_kama_01_02.png"
+				},
+				"armor": {
+					"name": "Scavenger's Mail",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3c/Arm_prc_20.png"
+				},
+				"helmet": {
+					"name": "Scavenger's Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a1/Helm_prc_20.png"
+				},
+				"ranged_weapon": {
+					"name": "Sticking Needles",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/25/Rng_needle_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Jagged Kusarigama",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/98/Wpn_kusarigama_01_02.png"
+				},
+				"armor": {
+					"name": "Deep Sea Plate",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ad/Arm_prc_23.png"
+				},
+				"helmet": {
+					"name": "Deep Sea Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8d/Helm_prc_23.png"
+				},
+				"ranged_weapon": {
+					"name": "Bladed Mill",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/32/Rng_folding_shuriken_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Classy Katana",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/56/Wpn_katana_scabbard_01_02.png"
+				},
+				"armor": {
+					"name": "Robe of Silence",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/25/Arm_prc_25.png"
+				},
+				"helmet": {
+					"name": "Cryptkeeper's Hood",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/0b/Helm_prc_25.png"
+				},
+				"ranged_weapon": {
+					"name": "Restrictors",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b6/Rng_electromine_01_02.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Dissectors",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/65/Wpn_whip_katar_01_02.png"
+				},
+				"armor": {
+					"name": "Eclipse Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/31/Arm_prc_30.png"
+				},
+				"helmet": {
+					"name": "Blackout Half Hood",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ad/Helm_prc_30.png"
+				},
+				"ranged_weapon": {
+					"name": "Wasteland Dragonfly",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2f/Rng_prc_blaster_01_02.png"
+				}
+			}
+		]
+	},
+	"epic": {
+		"rarity": "Epic",
+		"description": "There are a total of 21 Epic Sets. Collecting all the items of an Epic Set will reward the players with some coins, 150 shadow energy, 150 stability points in June's Plane, 90 stability points for each item and 90 stability points for a set in Itu's Plane. Aside from the usual methods, some Epic items are also obtainable from certain events.",
+		"sets": [
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Ornate Two-Hander",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/43/Wpn_twohanded_sword_01_03.png"
+				},
+				"armor": {
+					"name": "Kagun's Woolfell",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/cd/Arm_str_13.png"
+				},
+				"helmet": {
+					"name": "Kagun's Horns",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/84/Helm_str_14.png"
+				},
+				"ranged_weapon": {
+					"name": "Black Strike",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2e/Rng_arbalest_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Ash and Light",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a0/Wpn_dual_swords_01_03.png"
+				},
+				"armor": {
+					"name": "Laminar Cuirass",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/10/Arm_str_15.png"
+				},
+				"helmet": {
+					"name": "Cuirassier Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e3/Helm_str_02.png"
+				},
+				"ranged_weapon": {
+					"name": "Death Grip",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8f/Rng_trap_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Wicked Twins",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a3/Wpn_hammers_02_02.png"
+				},
+				"armor": {
+					"name": "Swamper's Camouflage",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/28/Arm_str_17.png"
+				},
+				"helmet": {
+					"name": "Swamper's Headgear",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d3/Helm_str_17.png"
+				},
+				"ranged_weapon": {
+					"name": "Chained Hatchets",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/62/Rng_axes_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Old-Timer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/50/Wpn_giant_sword_01.png"
+				},
+				"armor": {
+					"name": "Lupine Plate",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/71/Arm_str_20.png"
+				},
+				"helmet": {
+					"name": "Rigid Barbute",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/63/Helm_str_20.png"
+				},
+				"ranged_weapon": {
+					"name": "Bloodthirst",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/58/Rng_pilum_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Storm Hammer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/37/Wpn_twohanded_hammer_02_02.png"
+				},
+				"armor": {
+					"name": "Mariner's Coat",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8b/Arm_str_24.png"
+				},
+				"helmet": {
+					"name": "Tricorne",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/0d/Helm_str_24.png"
+				},
+				"ranged_weapon": {
+					"name": "Rusty Rascal",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4c/Rng_pistol_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Nightbanes",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/17/Wpn_axes_02_03.png"
+				},
+				"armor": {
+					"name": "Commandant",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ae/Arm_str_27.png"
+				},
+				"helmet": {
+					"name": "Determination",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/37/Helm_str_27.png"
+				},
+				"ranged_weapon": {
+					"name": "Scarlet Blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c3/Rng_knives_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Spikey And Big Guy",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2b/Wpn_shield_knobstick_01_03.png"
+				},
+				"armor": {
+					"name": "Stigmata",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a0/Arm_str_31.png"
+				},
+				"helmet": {
+					"name": "Blind Rage",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/74/Helm_str_31.png"
+				},
+				"ranged_weapon": {
+					"name": "Cutjaw",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1a/Rng_str_blaster_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Aerial Lotus",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1b/Wpn_chain_knife_01_03.png"
+				},
+				"armor": {
+					"name": "Dragon Jacket",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/23/Arm_agl_04.png"
+				},
+				"helmet": {
+					"name": "Serpentine Cap",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/82/Helm_agl_04.png"
+				},
+				"ranged_weapon": {
+					"name": "Gilded Daggers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3b/Rng_agl_knives_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Weightened Nunchaku",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8b/Wpn_nunchaku_01_04.png"
+				},
+				"armor": {
+					"name": "Prefect's Robe",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/99/Arm_agl_11.png"
+				},
+				"helmet": {
+					"name": "Kernel Casque",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a9/Helm_agl_11.png"
+				},
+				"ranged_weapon": {
+					"name": "Wave Cutters",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1b/Rng_boomerang_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Gilded Staff",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e8/Wpn_staff_01_01.png"
+				},
+				"armor": {
+					"name": "Inwrought Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3e/Arm_agl_12.png"
+				},
+				"helmet": {
+					"name": "Cycle Armet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/48/Helm_agl_12.png"
+				},
+				"ranged_weapon": {
+					"name": "Emperor's Vow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ae/Rng_bow_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Crane's Wings",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e7/Wpn_deerhorn_01_03.png"
+				},
+				"armor": {
+					"name": "Fine Raiment",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/45/Arm_agl_18.png"
+				},
+				"helmet": {
+					"name": "Wrapped Kui",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/80/Helm_agl_18.png"
+				},
+				"ranged_weapon": {
+					"name": "Luna Chakrams",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3d/Rng_chakram_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Golden Bud",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/80/Wpn_dadao_01_03.png"
+				},
+				"armor": {
+					"name": "Sea Guard Plates",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6a/Arm_agl_22.png"
+				},
+				"helmet": {
+					"name": "Sailor Cap",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2b/Helm_agl_22.png"
+				},
+				"ranged_weapon": {
+					"name": "Solar Bombs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e2/Rng_bomb_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Ancient Legacy",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fd/Wpn_shuangou_01_02.png"
+				},
+				"armor": {
+					"name": "Revolution",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/15/Arm_agl_25.png"
+				},
+				"helmet": {
+					"name": "Courage",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/05/Helm_agl_25.png"
+				},
+				"ranged_weapon": {
+					"name": "Stars",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/35/Rng_spike_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Imperial Pearls",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6d/Wpn_glaive_knives_01_03.png"
+				},
+				"armor": {
+					"name": "Solar Flare",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e7/Arm_agl_28.png"
+				},
+				"helmet": {
+					"name": "Melting Rays",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/ce/Helm_agl_28.png"
+				},
+				"ranged_weapon": {
+					"name": "Emerald Straw",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/aa/Rng_bow_02_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Fate Slicer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/02/Wpn_glaive_01_03.png"
+				},
+				"armor": {
+					"name": "Thick Plackart",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e2/Arm_prc_07.png"
+				},
+				"helmet": {
+					"name": "Bright Kabuto",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/45/Helm_prc_07.png"
+				},
+				"ranged_weapon": {
+					"name": "Crimson Death",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c0/Rng_kunai_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Purple Peeler",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d7/Wpn_katana_scabbard_01_03.png"
+				},
+				"armor": {
+					"name": "Heralds' Raiment",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/19/Arm_prc_19.png"
+				},
+				"helmet": {
+					"name": "Crested Cover",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b5/Helm_prc_19.png"
+				},
+				"ranged_weapon": {
+					"name": "Red Arrow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7e/Rng_harpoon_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Dark Cogs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/42/Wpn_sai_01_03.png"
+				},
+				"armor": {
+					"name": "Ghost Doublet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b4/Arm_prc_14.png"
+				},
+				"helmet": {
+					"name": "Lunar Shroud",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/19/Helm_prc_14.png"
+				},
+				"ranged_weapon": {
+					"name": "Bright Shurikens",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/07/Rng_shuriken_01_06.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Shadow Piercer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/19/Wpn_naginata_01_03.png"
+				},
+				"armor": {
+					"name": "Feldsher's Uniform",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2a/Arm_prc_17.png"
+				},
+				"helmet": {
+					"name": "Feldsher's Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8a/Helm_prc_17.png"
+				},
+				"ranged_weapon": {
+					"name": "Endless Pain",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/65/Rng_needle_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Iridescent Slicers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/94/Wpn_claws_01_03.png"
+				},
+				"armor": {
+					"name": "Volcanic Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/97/Arm_prc_24.png"
+				},
+				"helmet": {
+					"name": "Lava Muzzle",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a5/Helm_prc_24.png"
+				},
+				"ranged_weapon": {
+					"name": "Edged Fin",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fb/Rng_folding_shuriken_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Accusers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d2/Wpn_dual_kama_01_03.png"
+				},
+				"armor": {
+					"name": "Saccadic Masking",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/80/Arm_prc_26.png"
+				},
+				"helmet": {
+					"name": "Neurovisor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/21/Helm_prc_26.png"
+				},
+				"ranged_weapon": {
+					"name": "Massive Mines",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/41/Rng_electromine_01_03.png"
+				}
+			},
+			{
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Rattlesnakes",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/74/Wpn_whip_katar_01_03.png"
+				},
+				"armor": {
+					"name": "Version 707",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/16/Arm_prc_31.png"
+				},
+				"helmet": {
+					"name": "Modulator",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/76/Helm_prc_31.png"
+				},
+				"ranged_weapon": {
+					"name": "Removal Serenade",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/03/Rng_prc_blaster_01_03.png"
+				}
+			}
+		]
+	},
+	"unique": {
+		"rarity": "Unique",
+		"description": "As their rarity name suggests, these sets are more unique than the other four rarities in the sense that they are time-limited sets. Unique equipment has a special theme and can only be obtained while their respective events are ongoing. There are a total of 10 Unique Sets, 4 of which come with a set bonus usable in fights. Collecting all the items of an Unique Set will reward the players with 50 gems and 150 stability points. As of the update 1.32.1, the rarity's power is equivalent to the Legendary sets. Similar to the legendary sets with bonuses, it can now be upgraded and improved.",
+		"sets": [
+			{
+				"setInfo": {
+					"name": "Festival King",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/c7/Monkey_Set_Icon.png",
+					"ability": "Taking a sip from a mysterious flask will give you a random blessing from the Monkey King"
+				},
+				"weapon": {
+					"name": "Monkey King Staff",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f5/Wpn_monkey_king_staff.png"
+				},
+				"armor": {
+					"name": "Monkey King Outfit",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4f/Arm_monkey_king.png"
+				},
+				"helmet": {
+					"name": "Monkey King Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/86/Helm_monkey_king.png"
+				},
+				"ranged_weapon": {
+					"name": "Monkey King Flask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a8/Rng_bottle_monkey_king.png"
+				},
+				"event": "Lunar Festival"
+			},
+			{
+				"setInfo": { "name": "Verdict of the Elder", "icon": "", "ability": "" },
+				"weapon": {
+					"name": "Sin Eater",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/91/Wpn_executioner_sword.png"
+				},
+				"armor": {
+					"name": "Sanguine Cowl",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2e/Arm_str_19.png"
+				},
+				"helmet": {
+					"name": "Eye of the Reaper",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9a/Helm_str_19.png"
+				},
+				"ranged_weapon": {
+					"name": "Excarnators",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6c/Rng_axes_executioner.png"
+				},
+				"event": "Sanguine Forest"
+			},
+			{
+				"setInfo": {
+					"name": "Spring Champion",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/a/a2/Sakura_Set_Icon.png",
+					"ability": "You receive shadow energy from other creatures, tap into rare Bloom energy and use it for festival tricks"
+				},
+				"weapon": {
+					"name": "Iron Foliage",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3b/Wpn_glaive_sakura.png"
+				},
+				"armor": {
+					"name": "Sakura Phantom",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4e/Arm_sakura.png"
+				},
+				"helmet": {
+					"name": "Blossom Mask",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/59/Helm_sakura.png"
+				},
+				"ranged_weapon": {
+					"name": "Petal Thrower",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4a/Rng_harpoon_sakura.png"
+				},
+				"event": "Blossom Festival"
+			},
+			{
+				"setInfo": { "name": "Blizzard Master", "icon": "", "ability": "" },
+				"weapon": {
+					"name": "Snowstorm Blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1e/Wpn_sabers_frozen_dragon.png"
+				},
+				"armor": {
+					"name": "Frozen Dragon",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3d/Arm_frozen_dragon.png"
+				},
+				"helmet": {
+					"name": "Frost Helmet",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a1/Helm_frozen_dragon.png"
+				},
+				"ranged_weapon": {
+					"name": "Glacier Orbs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2d/Rng_bomb_frozen_dragon.png"
+				},
+				"event": "Dragon Lesson"
+			},
+			{
+				"setInfo": {
+					"name": "Immortal Lord",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/e/ee/Vampire_Set_Icon.png",
+					"ability": "The Power of Rot allows you to inflict Bleeding, steal health, and return to life after receiving lethal damage"
+				},
+				"weapon": {
+					"name": "Call of the Cursed",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/25/Wpn_onehanded_sword_halloween.png"
+				},
+				"armor": {
+					"name": "Crimson Thirst",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9c/Arm_halloween.png"
+				},
+				"helmet": {
+					"name": "Bloodwing",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/58/Helm_halloween.png"
+				},
+				"ranged_weapon": {
+					"name": "Blood Spit",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a3/Rng_arbalest_halloween.png"
+				},
+				"event": "Creepy Party"
+			},
+			{
+				"setInfo": { "name": "Miracle Maker", "icon": "", "ability": "" },
+				"weapon": {
+					"name": "Icy Reaper",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/08/Wpn_kusarigama_new_year.png"
+				},
+				"armor": {
+					"name": "Shadow of the Snow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/53/Arm_new_year.png"
+				},
+				"helmet": {
+					"name": "Steel Focus",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/df/Helm_new_year.png"
+				},
+				"ranged_weapon": {
+					"name": "Winter Star",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a8/Rng_folding_shuriken_new_year.png"
+				},
+				"event": "Winter Frenzy, Jewels of the North, Winter Festival or other Christmas and New Year events"
+			},
+			{
+				"setInfo": { "name": "", "icon": "", "ability": "" },
+				"weapon": {
+					"name": "Sacred Empire",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/73/Wpn_guandao_korean_ny.png"
+				},
+				"armor": {
+					"name": "Sovereign",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/77/Arm_korean_ny.png"
+				},
+				"helmet": {
+					"name": "Royal Guard",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c4/Helm_korean_ny.png"
+				},
+				"ranged_weapon": {
+					"name": "Sunrise",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/67/Rng_bow_korean_ny.png"
+				},
+				"event": "Family Tree"
+			},
+			{
+				"setInfo": {
+					"name": "Brilliant Fakir",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/6/63/Brilliant_fakir_set_icon.png",
+					"ability": "You can exhale fire, weakening your opponent"
+				},
+				"weapon": {
+					"name": "Stage King",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/aa/Wpn_deerhorn_01_03b.png"
+				},
+				"armor": {
+					"name": "Performer's Soul",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/66/Arm_agl_18b.png"
+				},
+				"helmet": {
+					"name": "Talent Sparks",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/75/Helm_agl_18b.png"
+				},
+				"ranged_weapon": {
+					"name": "Opening and Finale",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9a/Rng_chakram_01_03b.png"
+				},
+				"event": "Dangerous Show"
+			},
+			{
+				"setInfo": { "name": "Storm of the Seas", "icon": "", "ability": "" },
+				"weapon": {
+					"name": "Surge of Anger",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e4/Wpn_twohanded_hammer_02_03.png"
+				},
+				"armor": {
+					"name": "Master of the Seas",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/29/Arm_str_38.png"
+				},
+				"helmet": {
+					"name": "Eye of the Storm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/ca/Helm_str_38.png"
+				},
+				"ranged_weapon": {
+					"name": "Captain's Word",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7b/Rng_pistol_01_05.png"
+				},
+				"event": "Big Splash"
+			},
+			{
+				"setInfo": {
+					"name": "Best Specialist",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/9/90/Azuma_set_icon.png",
+					"ability": "You start the round in shadow form and gain powerful shadow abilities"
+				},
+				"weapon": {
+					"name": "Discipline",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/da/Wpn_naginata_01_05.png"
+				},
+				"armor": {
+					"name": "Practical Model",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/82/Arm_prc_38.png"
+				},
+				"helmet": {
+					"name": "1st Grade Visor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1c/Helm_prc_38.png"
+				},
+				"ranged_weapon": {
+					"name": "Honor Needles",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/47/Rng_needle_01_05.png"
+				},
+				"event": "Market Madness"
+			},
+			{
+				"setInfo": {
+					"name": "Legitimate Authority",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/7/77/Jailer_set_icon.png",
+					"ability": "By landing successful attacks without taking damage, you collect Symbol of Authority, that allow you to land powerful and critical hits to your opponent"
+				},
+				"weapon": {
+					"name": "Law and Order",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fe/Wpn_axes_02_04.png"
+				},
+				"armor": {
+					"name": "Fortress Keeper",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4a/Arm_str_39.png"
+				},
+				"helmet": {
+					"name": "Seized Property",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/04/Helm_str_39.png"
+				},
+				"ranged_weapon": {
+					"name": "Jailor's Friends",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/22/Rng_knives_01_05.png"
+				},
+				"event": "Prison Break"
+			},
+			{
+				"setInfo": {
+					"name": "Liberator",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/3/38/Liberator_set_icon.png",
+					"ability": "You avoid defeat as long as possible and turn your opponent's fate against them"
+				},
+				"weapon": {
+					"name": "Chainbreaker",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3b/Wpn_naginata_01_06.png"
+				},
+				"armor": {
+					"name": "Fate of the Telepath",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fc/Arm_prc_41.png"
+				},
+				"helmet": {
+					"name": "Three Eyes of Tenebris",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/66/Helm_prc_41.png"
+				},
+				"ranged_weapon": {
+					"name": "Heralds",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f9/Rng_electromine_01_06.png"
+				},
+				"event": "Side Effect"
+			}
+		]
+	},
+	"legendary": {
+		"rarity": "Legendary",
+		"description": "These are the hardest type of sets to be collected. There are a total of 37 Legendary Sets, 28 of them has their own name and set bonuses usable in fights. Collecting all the items of a Legendary Set will reward the players with coins, 50 gems, 500 shadow energy, 200 stability points in June's Plane, 120 stability points for each item and 120 stability points for a set in Itu's Plane. As of the update 1.34, all legendary sets with bonuses have been improved or saved, and are available to be upgraded at the Forge, together with the Faction Wars.",
+		"sets": [
+			{
+				"setInfo": {
+					"name": "Scourge Liquidator",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/2/28/Scourge_Liquidator_Icon.png",
+					"ability": "You burn your opponent's shadow energy to deal more damage and heal yourself."
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Ripping Kit",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3d/Wpn_dual_swords_02_01.png"
+				},
+				"armor": {
+					"name": "Liquidator's Hardshell",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/76/Arm_str_10.png"
+				},
+				"helmet": {
+					"name": "Liquidator's Headpiece",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f8/Helm_str_10.png"
+				},
+				"ranged_weapon": {
+					"name": "Slicing Crossbow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/99/Rng_arbalest_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Elders' Lion",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/4/4f/Elder_lion_set_icon.png",
+					"ability": "Avenge the Elders by stunning your opponent with a roar and raining down lightning!"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Sun Splinter",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/38/Wpn_spear_01_04.png"
+				},
+				"armor": {
+					"name": "Lion's Pride",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c3/Arm_str_16.png"
+				},
+				"helmet": {
+					"name": "Lion's Gaze",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c6/Helm_str_16.png"
+				},
+				"ranged_weapon": {
+					"name": "Gilded Hatchets",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/22/Rng_axes_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Warmonger",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/0/06/Warmonger_set_icon.png",
+					"ability": "You can enter shadow form faster and it gives you many extra benefits"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Bonecrushers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/61/Wpn_hammers_01_02.png"
+				},
+				"armor": {
+					"name": "Warlord's Plates",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/5e/Arm_str_07.png"
+				},
+				"helmet": {
+					"name": "Warface",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/5b/Helm_str_09.png"
+				},
+				"ranged_weapon": {
+					"name": "Gilded Blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3c/Rng_knives_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Living Legend",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/d/d7/Valor_Set_Icon.png",
+					"ability": "You're protected by a shield that each 10 seconds absorbs your opponent's attacks with a blast and throws him back when he misses"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Ancestors' Wrath",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4c/Wpn_giant_sword_02.png"
+				},
+				"armor": {
+					"name": "Valor's Might",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3c/Arm_str_18.png"
+				},
+				"helmet": {
+					"name": "Valor's Headpiece",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/57/Helm_str_18.png"
+				},
+				"ranged_weapon": {
+					"name": "Obsidian Strike",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f6/Rng_pilum_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Abdicator",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/8/86/Abdicator_Set_Icon.png",
+					"ability": "The Power of Light gives you offensive and defensive abilities and saves you when you receive lethal damage."
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Arbitrator",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/54/Wpn_twohanded_sword_01_04.png"
+				},
+				"armor": {
+					"name": "Divine Retribution",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/35/Arm_str_25.png"
+				},
+				"helmet": {
+					"name": "Higher Calling",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/45/Helm_str_25.png"
+				},
+				"ranged_weapon": {
+					"name": "Mercy",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d8/Rng_pistol_01_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Night Warrior", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Light Brim",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ed/Wpn_onehanded_sword_02_02.png"
+				},
+				"armor": {
+					"name": "Dogma",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d9/Arm_str_28.png"
+				},
+				"helmet": {
+					"name": "Shiny Darkness",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c1/Helm_str_28.png"
+				},
+				"ranged_weapon": {
+					"name": "Black Maw",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/13/Rng_trap_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Condensing Eraser",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/cc/Eraser_Set_Icon.png",
+					"ability": "You use advanced shadow technologies and can paralyze your opponent with electric shock"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Final Countdown",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e2/Wpn_shield_knobstick_01_04.png"
+				},
+				"armor": {
+					"name": "Shine",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a7/Arm_str_32.png"
+				},
+				"helmet": {
+					"name": "Aura",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/be/Helm_str_32.png"
+				},
+				"ranged_weapon": {
+					"name": "Citadel",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/24/Rng_str_blaster_01_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Northern Leader", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Drevar Songs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/26/Wpn_mace_01_05.png"
+				},
+				"armor": {
+					"name": "Flame Charmer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4b/Arm_str_35.png"
+				},
+				"helmet": {
+					"name": "Fiery North",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d8/Helm_str_35.png"
+				},
+				"ranged_weapon": {
+					"name": "Woodland Wolves",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2b/Rng_axes_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Wolf Leader",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/7/7e/Wolf_Set_Icon.png",
+					"ability": "You inflict Lacerations, which deal damage to your opponent when they move, and can strengthen this effect by using Horn"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Drevar's Heart",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d1/Wpn_big_knife_01_04.png"
+				},
+				"armor": {
+					"name": "Leader's Oath",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ee/Arm_str_36.png"
+				},
+				"helmet": {
+					"name": "Law of the Pack",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e1/Helm_str_36.png"
+				},
+				"ranged_weapon": {
+					"name": "Silver Tooth",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a1/Rng_battlehorn_01_01.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Champion of the Pit",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/4/43/Ironclad_Set_Icon.png",
+					"ability": "You despise ranged weapons, score critical hits frequently and can reduce your opponent's defenses"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Fury and Bitey",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2a/Wpn_knuckles_01_01.png"
+				},
+				"armor": {
+					"name": "Born Again",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a4/Arm_str_37.png"
+				},
+				"helmet": {
+					"name": "Bear's Thicket",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/14/Helm_str_37.png"
+				},
+				"ranged_weapon": {
+					"name": "Just A Trophy",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fc/Rng_trap_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Ancient Overlord",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/cd/King_set_icon.png",
+					"ability": "You perform a Sorrowful Prayer, which allows you to perform powerful area of effect attacks and unleash angry souls on your enemies"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Immortality",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f4/Wpn_twohanded_sword_01_05.png"
+				},
+				"armor": {
+					"name": "Voice of the Bones",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c9/Arm_str_34.png"
+				},
+				"helmet": {
+					"name": "Moan of Eternity",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2a/Helm_str_34.png"
+				},
+				"ranged_weapon": {
+					"name": "Kings' Grief",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/25/Rng_pilum_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Hand of Magmarion",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/e/e3/Magmarion_set_icon.png",
+					"ability": "You feed a giant living Fire sword with shadow energy and gain its abilities in battle"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Magmarion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7e/Wpn_giant_sword_03_01.png"
+				},
+				"armor": {
+					"name": "Law of Fire",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/da/Arm_str_40.png"
+				},
+				"helmet": {
+					"name": "Forgotten Hero",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/23/Helm_str_40.png"
+				},
+				"ranged_weapon": {
+					"name": "Warrior's Will",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a3/Rng_pilum_01_06.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Shadow Colossus",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/7/76/Shadow_colossus_set_icon.png",
+					"ability": "Enhance your shadow moves, rain spears on your enemies and shake the earth itself"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Nightstalker",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/34/Wpn_twohanded_hammer_01_03.png"
+				},
+				"armor": {
+					"name": "Inmate's Heart",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ef/Arm_str_42.png"
+				},
+				"helmet": {
+					"name": "Commander's Wreath",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/79/Helm_str_42.png"
+				},
+				"ranged_weapon": {
+					"name": "Fire Lord",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/68/Rng_arbalest_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Steel Hound",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/4/46/Steel_hound_set_icon.png",
+					"ability": "Build up Fire energy in Guard phase and unleash a fiery hell on your opponent during Pursuit"
+				},
+				"faction": {
+					"name": "Legion",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Legion_Small.png"
+				},
+				"weapon": {
+					"name": "Bane of Giants",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/61/Wpn_shield_knobstick_01_05.png"
+				},
+				"armor": {
+					"name": "Steel Heart",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/70/Arm_str_41.png"
+				},
+				"helmet": {
+					"name": "Vigilant Sentinel",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e5/Helm_str_41.png"
+				},
+				"ranged_weapon": {
+					"name": "Call of the North",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/56/Rng_battlehorn_01_02.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Guardian Dragon",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/6/66/Guardian_Dragon_Icon.png",
+					"ability": "Gain more shadow energy from attacks and deal additional shadow damage with weapons"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Emerald Claw",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6b/Wpn_guandao_01_04.png"
+				},
+				"armor": {
+					"name": "Guard's Armor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/dc/Arm_agl_06.png"
+				},
+				"helmet": {
+					"name": "Guardian's Helm",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6f/Helm_agl_02.png"
+				},
+				"ranged_weapon": {
+					"name": "Lotus Petals",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/42/Rng_agl_knives_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Arrow",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/0/0d/Arrow_Set_Icon.png",
+					"ability": "Move to get more shadow energy and increase shadow damage"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Eagle's Dive",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f8/Wpn_chain_knife_01_04.png"
+				},
+				"armor": {
+					"name": "Three Arrows' Glory",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6d/Arm_agl_07.png"
+				},
+				"helmet": {
+					"name": "Golden Fang Crown",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/42/Helm_agl_03.png"
+				},
+				"ranged_weapon": {
+					"name": "Fourleaves",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a8/Rng_spike_01_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Golden Demon", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Prosperity Staff",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Wpn_staff_01_04.png"
+				},
+				"armor": {
+					"name": "Demon Ward",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c4/Arm_agl_14.png"
+				},
+				"helmet": {
+					"name": "Demon's Crown",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c5/Helm_agl_14.png"
+				},
+				"ranged_weapon": {
+					"name": "Sky Lord",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f3/Rng_bow_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Octopus Of The Damned",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/c8/Octopus_Set_Icon.png",
+					"ability": "Stun your opponent by throwing fire orbs and placing mines"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Flying Jade",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4b/Wpn_nunchaku_01_05.png"
+				},
+				"armor": {
+					"name": "Kraken's Eye",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fb/Arm_agl_21.png"
+				},
+				"helmet": {
+					"name": "Kraken Kabuto",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/42/Helm_agl_21.png"
+				},
+				"ranged_weapon": {
+					"name": "Burning Rain",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/43/Rng_bomb_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Usurper",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/6/69/Usurper_Set_Icon.png",
+					"ability": "Break through your opponent's block and deal increased boomerang damage"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Crown Defender",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/29/Wpn_shuangou_01_03.png"
+				},
+				"armor": {
+					"name": "Wings of Reign",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/de/Arm_agl_20.png"
+				},
+				"helmet": {
+					"name": "Chief's Crown",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/54/Helm_agl_20.png"
+				},
+				"ranged_weapon": {
+					"name": "Wyvern's Claws",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/ce/Rng_boomerang_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Star Chaser",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/4/45/Star_Chaser_Set_Icon.png",
+					"ability": "After taking lethal damage, you become invulnerable and continue to fight in your enhanced shadow form"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Dragon's Roar",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9e/Wpn_dadao_01_04.png"
+				},
+				"armor": {
+					"name": "Northern Lights",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4b/Arm_agl_27.png"
+				},
+				"helmet": {
+					"name": "Triumphant",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f7/Helm_agl_27.png"
+				},
+				"ranged_weapon": {
+					"name": "Dragon Chakrams",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/09/Rng_chakram_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Torturous Nightmare",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/5/54/Nightmare_Set_Icon.png",
+					"ability": "Your attacks inflict Bleeding on your opponent, which damages them and reduce the damage of their next attack"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Fireflies",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/48/Wpn_glaive_knives_01_04.png"
+				},
+				"armor": {
+					"name": "Utopian Glow",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3c/Arm_agl_33.png"
+				},
+				"helmet": {
+					"name": "Airwalker",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ef/Helm_agl_33.png"
+				},
+				"ranged_weapon": {
+					"name": "Sun Synthesis",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/aa/Rng_bow_02_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Celestial Overseer", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Demons' Gate",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4b/Wpn_triple_staff_01_04.png"
+				},
+				"armor": {
+					"name": "Blazing Onyx",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ab/Arm_agl_34.png"
+				},
+				"helmet": {
+					"name": "Gliding Dragon",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b5/Helm_agl_34.png"
+				},
+				"ranged_weapon": {
+					"name": "Verity and Virtue",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/12/Rng_chakram_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Steppe Prince",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/5/5a/Tarlan_Set_Icon.png",
+					"ability": "You can summon a pet falcon that helps you in battle"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Umbral Heirs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/dc/Wpn_sabers_01_04.png"
+				},
+				"armor": {
+					"name": "Shadowsilk",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2b/Arm_agl_35.png"
+				},
+				"helmet": {
+					"name": "Hawk's Peak",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/14/Helm_agl_35.png"
+				},
+				"ranged_weapon": {
+					"name": "Barkhan Feathers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/eb/Rng_boomerang_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Dynasty Heritage",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/5/59/June_Set_Icon.png",
+					"ability": "You use special fire orbs and deal increased damage"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Hand of Justice",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ac/Wpn_chain_knife_01_05.png"
+				},
+				"armor": {
+					"name": "Natural Leader",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ac/Arm_agl_36.png"
+				},
+				"helmet": {
+					"name": "Incognito",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a8/Helm_agl_36.png"
+				},
+				"ranged_weapon": {
+					"name": "Dangerous Trophy",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/95/Rng_bomb_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Demon of Wrath",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/f/fd/Butcher_set_icon.png",
+					"ability": "You can summon a Death Cage, which strengthens you and prevents your opponent from escaping"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Slicers",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/01/Wpn_dual_cleavers_01_01.png"
+				},
+				"armor": {
+					"name": "Looted Silk",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/88/Arm_agl_38.png"
+				},
+				"helmet": {
+					"name": "Clutches of Rage",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/56/Helm_agl_38.png"
+				},
+				"ranged_weapon": {
+					"name": "Butcher's Hook",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/30/Rng_hook_01.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Perfect Surface Servant",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/d/d6/Perfect_Surface_Servant.png",
+					"ability": "You use ice energy to protect yourself with an ice shield, freeze opponents, and make them slip."
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Seeds of Aeons",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fc/Wpn_glaive_knives_01_06.png"
+				},
+				"armor": {
+					"name": "Three Icy Virtues",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7e/Arm_agl_39.png"
+				},
+				"helmet": {
+					"name": "Lord of Absence",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/dc/Helm_agl_39.png"
+				},
+				"ranged_weapon": {
+					"name": "Fragile Constants",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/22/Rng_agl_knives_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Widow's Favorite",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/2/2c/Widow%27s_Favorite.png",
+					"ability": "The fairest of demons protects you with the power of shadow winds: control them with shadow moves"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Wings of Perfection",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4b/Wpn_fans_01.png"
+				},
+				"armor": {
+					"name": "Imperial Silk",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2e/Arm_agl_40.png"
+				},
+				"helmet": {
+					"name": "Wreath of the Chosen",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a2/Helm_agl_40.png"
+				},
+				"ranged_weapon": {
+					"name": "Widow's Hairpins",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/23/Rng_needle_01_07.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "King of Serpents",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/d/df/King_of_serpents_set_icon.png",
+					"ability": "Poison your opponent and gain Bloom energy to unlock new abilities!"
+				},
+				"faction": {
+					"name": "Dynasty",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/00/Dynasty_Small.png"
+				},
+				"weapon": {
+					"name": "Poisonous Fangs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6c/Wpn_shuangou_01_04.png"
+				},
+				"armor": {
+					"name": "Regal Scales",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/98/Arm_agl_41.png"
+				},
+				"helmet": {
+					"name": "Basilisk's Gaze",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/3e/Helm_agl_41.png"
+				},
+				"ranged_weapon": {
+					"name": "Witch's Trump",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/0e/Rng_bottle_01_02.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Gloomy Spectre",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/8/87/Gloomy_Spectre_Icon.png",
+					"ability": "The more successful and critical attacks you make, the higher your damage will be"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Cyan Talons",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/a4/Wpn_claws_01_04.png"
+				},
+				"armor": {
+					"name": "Agony Gleam",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b1/Arm_prc_10.png"
+				},
+				"helmet": {
+					"name": "Mind Protector",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/77/Helm_prc_10.png"
+				},
+				"ranged_weapon": {
+					"name": "Ice Fangs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/bd/Rng_kunai_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Anomaly Hunter",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/d/db/Anomaly_hunter_set_icon.png",
+					"ability": "Accumulate shadow energy to deal increased weapon damage and lure enemies into a net of electromines"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Shadowslayer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6d/Wpn_katana_01_04.png"
+				},
+				"armor": {
+					"name": "Shadowdiving Suit",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/98/Arm_prc_16_old.png"
+				},
+				"helmet": {
+					"name": "Shadowdiver's Muzzle",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/ef/Helm_prc_16.png"
+				},
+				"ranged_weapon": {
+					"name": "Selectors",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/a/ad/Rng_electromine_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Divine Judge",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/ce/Judge_Set_Icon.png",
+					"ability": "You are bound by a special shadow vow to the Void Room and execute its orders, which can strengthen you of weaken your opponent"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Fate's End",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/d3/Wpn_katana_scabbard_01_04.png"
+				},
+				"armor": {
+					"name": "Final Judgement",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b1/Arm_prc_15.png"
+				},
+				"helmet": {
+					"name": "Crescent Visor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8e/Helm_prc_15.png"
+				},
+				"ranged_weapon": {
+					"name": "Dragonfly's Bite",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6e/Rng_needle_01_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Tracker", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Improved Pruner",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/b/b0/Wpn_naginata_01_04.png"
+				},
+				"armor": {
+					"name": "ABL-12",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/31/Arm_prc_11.png"
+				},
+				"helmet": {
+					"name": "V.O.A.K.",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/40/Helm_prc_11.png"
+				},
+				"ranged_weapon": {
+					"name": "Glacial Harpoon",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1b/Rng_harpoon_01_04.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Shadow Artisan",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/f/f9/Creator_Set_Icon.png",
+					"ability": "In battle, you are assisted  by various shadow bot models"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Blood Reaper (SF3)",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/ff/Wpn_kusarigama_01_04.png"
+				},
+				"armor": {
+					"name": "Obscure Jacket",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/9b/Arm_prc_22.png"
+				},
+				"helmet": {
+					"name": "Stealth Visor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/8e/Helm_prc_22.png"
+				},
+				"ranged_weapon": {
+					"name": "Supernova",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/10/Rng_folding_shuriken_01_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Future Keeper", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Nocturnal Clutches",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/c/c9/Wpn_sai_01_04.png"
+				},
+				"armor": {
+					"name": "Detachment",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/04/Arm_prc_27.png"
+				},
+				"helmet": {
+					"name": "Ataraxia",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7e/Helm_prc_27.png"
+				},
+				"ranged_weapon": {
+					"name": "Steel Dragonflies",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e5/Rng_shuriken_01_07.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Void Warden",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/cc/Warden_Set_Icon.png",
+					"ability": "Contaminate your opponent's shadow energy and summon the mysterious power of Wasteland to your aid"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Chelicerae",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fe/Wpn_whip_katar_01_04.png"
+				},
+				"armor": {
+					"name": "Significator",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/93/Arm_prc_32.png"
+				},
+				"helmet": {
+					"name": "Scolopendrae",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/e/e9/Helm_prc_32.png"
+				},
+				"ranged_weapon": {
+					"name": "Ling Project",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/5b/Rng_prc_blaster_01_04.png"
+				}
+			},
+			{
+				"setInfo": { "name": "Predator", "icon": "", "ability": "N/A" },
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Revival",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/48/Wpn_ninjato_01_04.png"
+				},
+				"armor": {
+					"name": "Savannah",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fc/Arm_prc_34.png"
+				},
+				"helmet": {
+					"name": "Jackal Paradigma",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/69/Helm_prc_34.png"
+				},
+				"ranged_weapon": {
+					"name": "Okada's Razor",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/5/5b/Rng_kunai_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Raven of the Looming Night",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/c/ca/Ling_Set_Icon.png",
+					"ability": "The Raven of the Looming Night appreciated your skill and gifted you with a special tea recipe and a unique katana technique"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Raven's Talon",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/4f/Wpn_katana_01_05.png"
+				},
+				"armor": {
+					"name": "Midnight Flight",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/12/Arm_prc_36.png"
+				},
+				"helmet": {
+					"name": "Master's Beak",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/6/6f/Helm_prc_36.png"
+				},
+				"ranged_weapon": {
+					"name": "Coveted Vessel",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/30/Rng_bottle_01_01.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Stranger",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/4/45/Stranger_Set_Icon.png",
+					"ability": "You can dash toward an enemy, dealing a powerful attack, and are proficient in shadow arts"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "World Slicer",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fe/Wpn_katana_01_06.png"
+				},
+				"armor": {
+					"name": "Burden of Loneliness",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/29/Arm_prc_35.png"
+				},
+				"helmet": {
+					"name": "Eye of Time",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/79/Helm_prc_35.png"
+				},
+				"ranged_weapon": {
+					"name": "Spatial Trap",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/1c/Rng_electromine_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Demon Prince",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/a/a3/Lynx_Set_Icon.png",
+					"ability": "Control your opponents and steal their health"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Order's Claws",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/dd/Wpn_claws_01_05.png"
+				},
+				"armor": {
+					"name": "Luxurious Furs",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/27/Arm_prc_37.png"
+				},
+				"helmet": {
+					"name": "Egomaniac's Crown",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/76/Helm_prc_37.png"
+				},
+				"ranged_weapon": {
+					"name": "Jealous Kiss",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fb/Rng_kunai_01_06.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Destroyer of the Epochs",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/e/e9/Itu_set_icon.png",
+					"ability": "Outstanding katana technique, time manipulation, and mastery of traps are available to you"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Blade of Timelessness",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/1/18/Wpn_katana_scabbard_01_05.png"
+				},
+				"armor": {
+					"name": "Demon's Robe",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/27/Arm_prc_39.png"
+				},
+				"helmet": {
+					"name": "Gaze Into Infinity",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/4/43/Helm_prc_39.png"
+				},
+				"ranged_weapon": {
+					"name": "Shards of the Maze",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/8/80/Rng_needle_01_06.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Chorus of the Void",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/8/81/Mnemos_Set_Icon.png",
+					"ability": "Switch between the three Void energies to gain their special bonus and abilities in battle"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Battle of Laws",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/3/37/Wpn_composite_sword_01_01.png"
+				},
+				"armor": {
+					"name": "Council of Seven",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/2/2d/Arm_prc_33.png"
+				},
+				"helmet": {
+					"name": "Infinite Journey",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/9/99/Helm_prc_33.png"
+				},
+				"ranged_weapon": {
+					"name": "Indigo",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/07/Rng_prc_blaster_01_05.png"
+				}
+			},
+			{
+				"setInfo": {
+					"name": "Void Anibot",
+					"icon": "https://static.wikia.nocookie.net/shadowfight/images/b/b2/Void_Anibot_Icon.png",
+					"ability": "Control the Chaos of the Void, but be careful - it knows neither friend nor foe!"
+				},
+				"faction": {
+					"name": "Herald",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/f0/Herald_Small.png"
+				},
+				"weapon": {
+					"name": "Will of Many",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/f/fd/Wpn_dual_kama_01_05.png"
+				},
+				"armor": {
+					"name": "Shell of Genesis",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/7/7a/Arm_prc_40.png"
+				},
+				"helmet": {
+					"name": "Duality Hypothesis",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/d/da/Helm_prc_40.png"
+				},
+				"ranged_weapon": {
+					"name": "Chaos Blades",
+					"image_url": "https://static.wikia.nocookie.net/shadowfight/images/0/06/Rng_folding_shuriken_01_05.png"
+				}
+			}
+		]
+	}
+}

@@ -36,6 +36,8 @@ export async function webSearchService(url, keywords) {
 	const page = await browser.newPage();
 	await page.goto(url);
 
+	await page.waitForSelector(".gLFyf");
+
 	// 'input' is a CSS selector.
 	await page.type(".gLFyf", keywords); // change the second parameter (use any keyword you want to search in the google)
 	await page.keyboard.press("Enter");
@@ -56,7 +58,7 @@ export async function webSearchService(url, keywords) {
 		const nextButton = await page.$("#pnnext");
 		if (!nextButton) break; // Break if there is no "Next" button
 
-		if (pageCount === 2) break; // uncomment if you want to stop in a specific page
+		// if (pageCount === 2) break; // uncomment if you want to stop in a specific page
 
 		await Promise.all([
 			nextButton.click(),
@@ -67,7 +69,7 @@ export async function webSearchService(url, keywords) {
 	}
 
 	// print the result
-	writeResult(allResults);
+	writeResult(allResults, "web_search");
 
 	// close the browser
 	await browser.close();
