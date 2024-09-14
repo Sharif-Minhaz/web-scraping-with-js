@@ -1,0 +1,157 @@
+[
+	{
+		"name": "Abelisaurus\n            ",
+		"description": "Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae,\n                Abelisaurinae\n                Named by:Bonaparte and Novas (1985)\n                Bonaparte and Novas (1985)\n                Type species:\n                comahuensis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/abeli.jpg"
+	},
+	{
+		"name": "Achillobator",
+		"description": "Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae\n                Named by:\n                Perle, Norell and Clark (1999)\n                Type species:\n                giganteus\n            ",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Achillobator.jpg"
+	},
+	{
+		"name": "Acrocanthosaurus",
+		"description": "Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea,\n                Carcharodontosauridae\n                Named by:\n                Stovall and Langston (1950)\n                Type species:\n                atokensis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/acrocantho.jpg"
+	},
+	{
+		"name": "Aegyptosaurus",
+		"description": "Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria,\n                Camarasauromorpha,\n                Titanosauriformes, Titanosauria\n                Named by:\n                Stromer (1932)\n                Type species:\n                baharijensis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/aegypto.jpg"
+	},
+	{
+		"name": "Afrovenator",
+		"description": "Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Megalosauridae,\n                Eustreptospondylinae\n                Named by:\n                Sereno, Wilson, Larsson, Dutheil and Sues (1944)\n                Type species:\n                abakensis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/afrovenator.jpg"
+	},
+	{
+		"name": "Agilisaurus",
+		"description": "Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Neornithischia, Cerapoda, Ornithopoda, Euornithopoda\n                Named by:\n                Peng (1990)\n                Type species:\n                louderbacki",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Agilisaurus.jpg"
+	},
+	{
+		"name": "Alamosaurus",
+		"description": "ype of dinosaur:\n                sauropod\n                Length:\n                21.0m",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/alamo.jpg"
+	},
+	{
+		"name": "Albertaceratops",
+		"description": "Type of dinosaur:\n                ceratopsian\n                Length:\n                7.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 80-75 million years ago\n                Found in:\n                Canada, USA\n                This dinosaur is known from a single, well-preserved skull from Alberta and material from a bone bed in\n                Montana,\n                including almost the entire skeleton, found in August 2001. It has long brow horns, unlike other members\n                of\n                the\n                centrosaurine subfamily.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia\n                Named by:\n                Ryan 2007\n                Type species:\n                nesmoi",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/albertaceratops.jpg"
+	},
+	{
+		"name": "Albertosaurus",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                9.0m\n                Weight:\n                1500kg\n                Diet:\n                carnivorous carnivorous food icon\n                Teeth:\n                saw-edged, flesh-slicing teeth\n                Food:\n                probably plant-eating dinosaurs\n                How it moved:\n                on 2 legs\n                When it lived:\n                Late Cretaceous, 76-74 million years ago\n                Found in:\n                Canada\n                Albertosaurus was a close relative of Tyrannosaurus, but smaller and not as heavily built.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Tyrannosauroidea, Tyrannosauridae, Albertosaurinae\n                Named by:\n                Lamb (1914)\n                Type species:\n                libratus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/albert%20(1).jpg"
+	},
+	{
+		"name": "Alectrosaurus",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                5.0m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Late Cretaceous, 90-70 million years ago\n                Found in:\n                China, Mongolia\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Tyrannosauroidea\n                Named by:\n                Gilmore (1933)\n                Type species:\n                olseni",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/alectro.jpg"
+	},
+	{
+		"name": "Alioramus",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                6.0m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Late Cretaceous, 71-66 million years ago\n                Found in:\n                Mongolia\n                The skull of this dinosaur shows small bumps near the nose.\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Tyrannosauroidea\n                Named by:\n                Kurzanov (1976)\n                Type species:\n                remotus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Alioramus.jpg"
+	},
+	{
+		"name": "Allosaurus",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                12.0m\n                Weight:\n                2000kg\n                Diet:\n                carnivorous carnivorous food icon\n                Teeth:\n                dagger-like with serrated edges\n                Food:\n                Stegosaurus, Diplodocus and others\n                How it moved:\n                on 2 legs\n                When it lived:\n                Late Jurassic, 152-145 million years ago\n                Found in:\n                Portugal, USA\n                The teeth of Allosaurus were 5-10cm long and curved backwards to prevent prey from escaping.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea,\n                Allosauridae\n                Named by:\n                Marsh (1877)\n                Type species:\n                fragilis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/allo.jpg"
+	},
+	{
+		"name": "Alvarezsaurus",
+		"description": "Type of dinosaur:\n                small theropod\n                Length:\n                2.0m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Late Cretaceous, 89-85 million years ago\n                Found in:\n                Argentina\n                Alvarezsaurus may have been feathered.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Maniraptoriformes, Maniraptora, Alvarezsauridae\n                Named by:\n                Bonaparte (1991)\n                Type species:\n                calvoi",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/alvarez.jpg"
+	},
+	{
+		"name": "Aragosaurus",
+		"description": "Type of dinosaur:\n                sauropod\n                Length:\n                18.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Early Cretaceous, 132-121 million years ago\n                Found in:\n                Spain\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda\n                Named by:\n                Sanz, Buscalioni, Casanovas and SanafÃ© (1987)\n                Type species:\n                ischiadicus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Aragosaurus.jpg"
+	},
+	{
+		"name": "Argentinosaurus",
+		"description": "Type of dinosaur:\n                sauropod\n                Length:\n                35.0m\n                Weight:\n                70000kg\n                Diet:\n                herbivorous herbivorous food icon\n                Teeth:\n                for stripping vegetation from branches\n                Food:\n                tough plant material\n                How it moved:\n                on four legs\n                When it lived:\n                Late Cretaceous, 90 million years ago\n                Found in:\n                Argentina\n                The exact size of Argentinosaurus is hard to estimate due to the incompleteness of its fossilised\n                remains.\n                But it is one\n                of the largest land animals ever found. It carried on growing throughout most of its lifetime. Other\n                similarly massive\n                dinosaurs include Patagotitan and Puertasaurus. They were all titanosaurs, a type of sauropod.\n\n                Argentinosaurus probably used its long neck to sweep the ground or to reach high up in search of\n                vegetation.\n                The\n                hatchlings of Argentinosaurus would have taken 15 years to grow to adulthood and in that time they would\n                have been very\n                vulnerable to predators, such as Giganotosaurus.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria,\n                Camarasauromorpha,\n                Titanosauriformes, Titanosauria\n                Named by:\n                Bonaparte and Coria (1993)\n                Type species:\n                huinculensis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/argent.jpg"
+	},
+	{
+		"name": "Apatosaurus",
+		"description": "Type of dinosaur:\n                sauropod\n                Length:\n                21.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Jurassic, 152-145 million years ago\n                Found in:\n                USA\n                Apatosaurus was a large sauropod dinosaur. It lived around 150 million years ago in the Late Jurassic\n                Period, in an area\n                that is now North America.\n\n                Like all sauropods, Apatosaurus ate plants.\n\n                Young Apatosaurus individuals grew up quickly. They took around 10 years to reach full adult size.\n\n                Where did Apatosaurus live?\n                Apatosaurus lived alongside Stegosaurus, Diplodocus and Allosaurus.\n\n                Their fossils were found in the Morrison Formation, a sequence of rocks that covers a huge area spanning\n                several US\n                states, including Wyoming, Colorado and Montana. Many dinosaurs have been discovered there.\n\n                During the Late Jurassic the environment was semi-arid, with forests, rivers and floodplains. There were\n                distinct wet\n                and dry seasons.\n\n                How did Apatosaurus defend itself from predators?\n                Apatosaurus had a long, narrow tail that it might have used as a whip.\n\n                The animal's huge size would also have helped to protect it from smaller predators, which may have found\n                Apatosaurus too\n                big to take on. Living in herds gave extra protection.\n\n                What does Apatosaurus mean?\n                The name Apatosaurus comes from Greek words meaning 'deceptive lizard'. The scientist who named this\n                dinosaur, Othniel\n                Charles Marsh, felt that some of the fossil bones were confusing to identify. They seemed to resemble\n                the\n                bones of a sea\n                reptile.\n\n                Are Apatosaurus and Brontosaurus the same dinosaur?\n                For more than 100 years, most scientists stopped using the well-known dinosaur name Brontosaurus. They\n                thought that\n                Brontosaurus and Apatosaurus fossils were the same thing.\n\n                But based on a study done in 2015, experts now think that the two dinosaurs are separate after all,\n                although\n                they are\n                closely related.\n\n                When did Apatosaurus go extinct?\n                Apatosaurus went extinct 145 million years ago, at the end of the Jurassic Period.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Diplodocoidea,\n                Diplodocidae\n                Named by:\n                Marsh (1877)\n                Type species:\n                ajax",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/apatosaurus-art.jpg"
+	},
+	{
+		"name": "Rajasaurus",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                6.6m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Late Cretaceous, 72-66 million years ago\n                Found in:\n                India\n                Rajasaurus was a large meat-eating dinosaur that lived towards the end of the Cretaceous Period in what\n                is\n                now India. It\n                was a kind of abelisaur, a group that also contains the well-known dinosaur Carnotaurus.\n\n                Rajasaurus sported a single short horn on the top of its head. No one knows for sure what it used this\n                horn\n                for, but\n                experts think it might have been for display or for head-butting other Rajasaurus.\n\n                Only parts of the skeleton of Rajasaurus have been found. But scientists have a good idea of what the\n                whole\n                animal may\n                have looked like as they have more complete fossils of some of its relatives, such as Majungasaurus.\n\n                Many abelisaurs had very short, stubby arms. It's likely that Rajasaurus did too, although we don't know\n                for\n                sure.\n\n                How big was Rajasaurus?\n                At 6.6 metres long, Rajasaurus was one of the larger members of the abelisaurid group. But this isn't\n                massive by Late\n                Cretaceous theropod standards. Dinosaurs such as Tyrannosaurus, Giganotosaurus and Carcharodontosaurus\n                could\n                get much\n                bigger.\n\n                What did Rajasaurus prey on?\n                Rajasaurus was likely an ambush predator able to bring down large animals with its strong neck and jaw\n                muscles. It may\n                also have scavenged for food. Unfortunately, scientists know little about the types of dinosaurs\n                Rajasaurus\n                preyed on.\n\n                Where was Rajasaurus found?\n                Rajasaurus was discovered in the Lameta Formation, a sequence of rocks formed during the Late\n                Cretaceous,\n                when India was\n                an island.\n\n                Sitting on top of these rocks are many layers of basalt, a type of rock formed from lava. These layers\n                are\n                called the\n                Deccan Traps. They were created by some of the largest volcanic eruptions ever.\n\n                Dinosaurs in India may have gone extinct around 350,000 years before the mass extinction event that\n                wiped\n                out most\n                dinosaurs at the end of the Cretaceous Period. This might have been due to volcanic eruptions.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae\n                Named by:\n                Wilson and colleagues (2003)\n                Type species:\n                narmadensis",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/rajasaurus.jpg"
+	},
+	{
+		"name": "Bactrosaurus",
+		"description": "Type of dinosaur:\n                large ornithopod\n                Length:\n                6.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 84-71 million years ago\n                Found in:\n                China\n                Skull fragments and postcranial bones of at least 12 Bactrosaurus individuals, juvenile to adult, have\n                been\n                found.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Neornithischia, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia,\n                Euiguanadontia,\n                Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae\n                Named by:\n                Gilmore (1933)\n                Type species:\n                johnsoni",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Bactrosaurus.jpg"
+	},
+	{
+		"name": "Bagaceratops",
+		"description": "Type of dinosaur:\n                ceratopsian\n                Length:\n                1.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 85-80 million years ago\n                Found in:\n                Mongolia\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Neornithischia, Cerapoda, Marginocephalia, Ceratopsia, Neoceratopsia,\n                Bagaceratopsidae\n                Named by:\n                Maryanska and Osmolska (1975)\n                Type species:\n                rozhdestvenskyi",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Bagaceratops.jpg"
+	},
+	{
+		"name": "Becklespinax",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                5.0m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Early Cretaceous, 142-132 million years ago\n                Found in:\n                England, United Kingdom\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae\n                Named by:\n                Paul (1988)\n                Type species:\n                altispinax",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Becklespinax.jpg"
+	},
+	{
+		"name": "Beipiaosaurus",
+		"description": "Type of dinosaur:\n                small theropod\n                Length:\n                2.0m\n                Diet:\n                omnivorous omnivorous food icon\n                When it lived:\n                Early Cretaceous, 127-121 million years ago\n                Found in:\n                China\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Maniraptoriformes, Maniraptora, Therizinosauroidea\n                Named by:\n                Xu, Tang and Wang (1999)\n                Type species:\n                inexpectus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Beipiaosaurus.jpg"
+	},
+	{
+		"name": "Isisaurus",
+		"description": "Type of dinosaur:\n                sauropod\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 71-66 million years ago\n                Found in:\n                India\n                This dinosaur is the one most similar to modern-day giraffes. Fungus has been found in its poo!\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria,\n                Camarasauromorpha,\n                Titanosauriformes, Titanosauria, Lithostrotia\n                Named by:\n                Jain and Bandyopadhyay (1997)\n                Type species:\n                colberti",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Isisaurus.jpg"
+	},
+	{
+		"name": "Zalmoxes",
+		"description": "Type of dinosaur:\n                small ornithopod\n                Length:\n                3.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 69 million years ago\n                Found in:\n                Romania\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Neornithischia, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia,\n                Rhabdodontidae\n                Named by:\n                Nopcsa (1902)\n                Type species:\n                robustus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Zalmoxes.jpg"
+	},
+	{
+		"name": "Talarurus",
+		"description": "Type of dinosaur:\n                armoured dinosaur\n                Length:\n                6.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 99-89 million years ago\n                Found in:\n                Mongolia\n                Talarurus is known from fairly complete skeletons.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae\n                Named by:\n                Maleev (1952)\n                Type species:\n                plicatospineus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Talarurus.jpg"
+	},
+	{
+		"name": "Telmatosaurus",
+		"description": "Type of dinosaur:\n                large ornithopod\n                Length:\n                5.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 84-66 million years ago\n                Found in:\n                France, Romania, Spain\n                Telmatosaurus is known from fragmentary remains.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Neornithischia, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia,\n                Euiguanadontia,\n                Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae\n                Named by:\n                Nopcsa (1900)\n                Type species:\n                transsylvanicus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/teltel.jpg"
+	},
+	{
+		"name": "Tsintaosaurus",
+		"description": "Type of dinosaur:\n                large ornithopod\n                Length:\n                12.0m\n                Diet:\n                herbivorous herbivorous food icon\n                When it lived:\n                Late Cretaceous, 84-71 million years ago\n                Found in:\n                China\n                Tsintaosaurus is known from skulls and a partial skeleton.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Neornithischia, Cerapoda, Ornithopoda, Euornithopoda, Iguanadontia,\n                Euiguanadontia,\n                Dryomorpha, Ankylopollexia, Iguanodontoidea, Hadrosauridae, Euhadrosauria, Lambeosaurinae\n                Named by:\n                Young (1958)\n                Type species:\n                spinorhinus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Tsintaosaurus.jpg"
+	},
+	{
+		"name": "Tuojiangosaurus",
+		"description": "Type of dinosaur:\n                armoured dinosaur\n                Length:\n                7.0m\n                Weight:\n                1500kgTaxonomic details\n                Taxonomy:\n                Dinosauria, Ornithischia, Genasauria, Thyreophora, Stegosauria, Stegosauridae, Stegosaurinae\n                Named by:\n                Dong, Li, Zhou and Zhang (1973)\n                Type species:\n                multispinus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/tuojiang.jpg"
+	},
+	{
+		"name": "Tyrannotitan\n            ",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                12.0m\n                Weight:\n                7000kg\n                Diet:\n                carnivorous carnivorous food icon\n                How it moved:\n                on two legs\n                When it lived:\n                Early Cretaceous, 101 million years ago\n                Found in:\n                Argentina\n                Tyrannotitan was a giant predator with very short arms that was closely related to Giganotosaurus and\n                Mapusaurus.\n                Fifty-seven Tyrannotitan teeth were found associated with Patagotitan remains, indicating that it\n                scavenged\n                from the\n                bodies of these giants after they had died, as well as probably actively hunting the young and old.",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/tyrannotitan-c.jpg"
+	},
+	{
+		"name": "Camarasaurus",
+		"description": "Type of dinosaur:\n                sauropod\n                Length:\n                23.0m\n                Weight:\n                20000kg\n                Diet:\n                herbivorous herbivorous food icon\n                Teeth:\n                chisel-like, sharp, snipping teeth\n                Food:\n                tough plant material\n                How it moved:\n                on 4 legs\n                When it lived:\n                Late Jurassic, 150-140 million years ago\n                Found in:\n                USA\n                Camarasaurus used rows of close-set teeth to strip the leaves from trees and shrubs. Food was ground by\n                stones in the\n                stomach.\n\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Sauropodomorpha, Sauropoda, Eusauropoda, Neosauropoda, Macronaria,\n                Camarasauromorpha,\n                Camarasauridae\n                Named by:\n                Cope (1877)\n                Type species:\n                supremus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/camara.jpg"
+	},
+	{
+		"name": "Carnotaurus",
+		"description": "Type of dinosaur:\n                large theropod\n                Length:\n                7.6m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Late Cretaceous, 70 million years ago\n                Found in:\n                Argentina\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae\n                Named by:\n                Bonaparte (1985)\n                Type species:\n                sastrei",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/carnoto.jpg"
+	},
+	{
+		"name": "Confuciusornis",
+		"description": "Type of dinosaur:\n                small theropod\n                Length:\n                0.25m\n                Diet:\n                carnivorous carnivorous food icon\n                When it lived:\n                Early Cretaceous, 127-121 million years ago\n                Found in:\n                China\n                Taxonomic details\n                Taxonomy:\n                Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora,\n                Maniraptoriformes, Maniraptora, Paraves, Eumaniraptoria, Avialae, Ornithurae, Avibrevicauda, Pygostylia,\n                Confuciusornithidae\n                Named by:\n                Hou, Zhou, Gu and Zhang (1995)\n                Type species:\n                sanctus",
+		"image": "https://developer-rana-sharif.github.io/age-of-dino/assets/images/Confuciusornis.jpg"
+	}
+]
